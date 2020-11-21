@@ -1,0 +1,57 @@
+.heading{
+    width:100%;
+    text-align:left;
+    border-radius:20px;
+    height:90px;
+    vertical-align: middle;
+}
+
+.heading h3{
+    display:inline;
+    font-size:35px;
+}
+
+.heading button{
+    float:right;
+    border:7px outset rgb(255, 255, 255);
+    height:50px;
+    width:125px;
+    font-size:18px;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#start{
+    font-size:22px;
+}
+
+#status{
+    font-size:22px;
+}
+
+ol{
+    text-align:left;
+}
+
+.copyright_footer_div{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-color: rgb(34, 67, 255);
+    text-align: center;
+    line-height: 3;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+canvas{
+    border: 10px outset rgb(34, 67, 255);
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px grey;
+}
