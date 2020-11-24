@@ -55,3 +55,7 @@ canvas{
     border-radius: 20px;
     box-shadow: 5px 5px 18px grey;
 }
+
+.btnrestart{
+    border: 5px outset rgb(255, 0, 0);
+}
